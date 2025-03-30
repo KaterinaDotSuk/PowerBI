@@ -1,2 +1,2 @@
-# PowerBI
-My PowerBI reports
+# Vizualizace prodejny
+Vizualizae dat na síti prodejen (fiktivní data). 
